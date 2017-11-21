@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/huangff1986/myBlog/issues"
   },
-  "homepage": "https://github.com/huangff1986/myBlog#readme"
+  "homepage": "https://github.com/huangff1986/myBlog#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
