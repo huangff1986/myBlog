@@ -19,5 +19,6 @@
   "homepage": "https://github.com/huangff1986/myBlog#readme",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "main": "server.js"
 }
